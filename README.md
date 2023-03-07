@@ -4,7 +4,7 @@
 This is Simple RTT library written on top of SEGGER's RTT functions. Library only supports printing to RTT(for now). Library is written in C++ using template. Each RTT channel is separated C++ object.
 Library requires [sSTD](https://github.com/silvio3105/sSTD) library.
 
-Driver documentation is available at `.docs/html/index.html`.
+Library documentation is available at `.docs/html/index.html`.
 Example applications are available at `examples` folder. All examples are made for STM32.
 
 
